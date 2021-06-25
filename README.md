@@ -1,7 +1,10 @@
 # SpamEmailClassification
-# Author: Gyeongwon James Kim 
-# Date: June 18th, 2021 - June 25, 2021 
-# Interactive Supervised Machine Learning model tool that performs Spam Email Classification using spam email data
+Author: Gyeongwon James Kim 
+
+Date: June 18th, 2021 - June 25, 2021
+
+Interactive Supervised Machine Learning model tool that performs Spam Email Classification using spam email data
+
 
 
 SpamClassifier.py 
