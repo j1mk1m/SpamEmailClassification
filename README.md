@@ -20,3 +20,9 @@ Creates dictionary of the word bank used for the ML model. Converts raw text to 
 \
 Predict.py \
 User-interactive tool that allows user to load a trained ML model then input test email text. After converting email to array using EmailConverter.py, uses the ML model to predict spam or non-spam email. This file when run allows the user to import already trained models, which can be used to classify an email as spam or non spam. The user can interact with this module by inputting the email contents, then receiving the results from the imported model. 
+\
+\
+**References** \
+* https://medium.com/analytics-vidhya/spam-email-detector-73518ba46340
+* https://cs50.harvard.edu/ai/2020/notes/4/#:~:text=#%20model%20=%20KNeighborsClassifier(n_neighbors=1)#%20model%20=%20svm.SVC()model%20=%20Perceptron()
+
