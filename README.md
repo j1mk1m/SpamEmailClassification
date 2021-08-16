@@ -1,5 +1,5 @@
 # SpamEmailClassification
-Author: Gyeongwon James Kim \
+Author: James Gyeongwon Kim \
 Date: June 18th, 2021 - June 25, 2021 
 
 This module is an Interactive Supervised Machine Learning model tool that performs Spam Email Classification using spam email data. \
